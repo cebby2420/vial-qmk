@@ -69,3 +69,7 @@ along with this program. If not, see <http://www.gnu.org/licenses/>.
 #define LOCKING_SUPPORT_ENABLE
 /* Locking resynchronize hack */
 #define LOCKING_RESYNC_ENABLE
+
+#define VIAL_KEYBOARD_UID { 0xA4, 0x05, 0x72, 0xBB, 0xE3, 0x0C, 0x45, 0x68 }
+#define VIAL_UNLOCK_COMBO_ROWS { 0, 3 }
+#define VIAL_UNLOCK_COMBO_COLS { 0, 13 }
